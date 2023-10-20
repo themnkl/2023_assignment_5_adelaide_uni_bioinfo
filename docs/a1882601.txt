@@ -10,3 +10,6 @@
 
 - Initial commit
 
+### Changed
+
+- Fix High severity issue XXXXXXX line 1 and 11 (#2139af7)
